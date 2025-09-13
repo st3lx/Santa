@@ -1,0 +1,1 @@
+Project about improving the Minkowski Constant in Multidimensional Diophantine Approximation. Result can be generalized to any dimension and norm in both Simultaneous Approxiamtion and Linear Form Approximation. Used Minkowski's Convex Body Theorem, Kissing Number Lemma, and exponents of decay of the best approximation error sequence. PPT in Overleaf.
